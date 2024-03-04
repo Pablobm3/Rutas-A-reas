@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="practicafinal"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/pablo/Descargas/bien/rutas/practicafinal"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/pablo/Descargas/bien/rutas/practicafinal/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/pablo/Descargas/bien/rutas/practicafinal/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/pablo/Descargas/bien/rutas/practicafinal/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/pablo/Descargas/bien/rutas/practicafinal/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/pablo/Descargas/bien/rutas/practicafinal"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/pablo/Descargas/bien/rutas/practicafinal/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/pablo/Descargas/bien/rutas/practicafinal/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/pablo/Descargas/bien/rutas/practicafinal/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/pablo/Descargas/bien/rutas/practicafinal/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/pablo/Descargas/bien/rutas/practicafinal"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/pablo/Descargas/bien/rutas/practicafinal/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/pablo/Descargas/bien/rutas/practicafinal/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/pablo/Descargas/bien/rutas/practicafinal/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/pablo/Descargas/bien/rutas/practicafinal/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="image">
+				<Option output="/home/pablo/Descargas/bien/rutas/practicafinal/libimage.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/pablo/Descargas/bien/rutas/practicafinal"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/pablo/Descargas/bien/rutas/practicafinal/rutas_aereas/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/pablo/Descargas/bien/rutas/practicafinal/Makefile&quot;  VERBOSE=1 image"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/pablo/Descargas/bien/rutas/practicafinal/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/pablo/Descargas/bien/rutas/practicafinal/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/pablo/Descargas/bien/rutas/practicafinal/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="image/fast">
+				<Option output="/home/pablo/Descargas/bien/rutas/practicafinal/libimage.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/pablo/Descargas/bien/rutas/practicafinal"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/pablo/Descargas/bien/rutas/practicafinal/rutas_aereas/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/pablo/Descargas/bien/rutas/practicafinal/Makefile&quot;  VERBOSE=1 image/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/pablo/Descargas/bien/rutas/practicafinal/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/pablo/Descargas/bien/rutas/practicafinal/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/pablo/Descargas/bien/rutas/practicafinal/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="doc_doxygen">
+				<Option working_dir="/home/pablo/Descargas/bien/rutas/practicafinal"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/pablo/Descargas/bien/rutas/practicafinal/Makefile&quot;  VERBOSE=1 doc_doxygen"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/pablo/Descargas/bien/rutas/practicafinal/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/pablo/Descargas/bien/rutas/practicafinal/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/pablo/Descargas/bien/rutas/practicafinal/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pruebarotacion">
+				<Option output="/home/pablo/Descargas/bien/rutas/practicafinal/pruebarotacion" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/pablo/Descargas/bien/rutas/practicafinal"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/pablo/Descargas/bien/rutas/practicafinal/rutas_aereas/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/pablo/Descargas/bien/rutas/practicafinal/Makefile&quot;  VERBOSE=1 pruebarotacion"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/pablo/Descargas/bien/rutas/practicafinal/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/pablo/Descargas/bien/rutas/practicafinal/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/pablo/Descargas/bien/rutas/practicafinal/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pruebarotacion/fast">
+				<Option output="/home/pablo/Descargas/bien/rutas/practicafinal/pruebarotacion" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/pablo/Descargas/bien/rutas/practicafinal"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/pablo/Descargas/bien/rutas/practicafinal/rutas_aereas/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/pablo/Descargas/bien/rutas/practicafinal/Makefile&quot;  VERBOSE=1 pruebarotacion/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/pablo/Descargas/bien/rutas/practicafinal/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/pablo/Descargas/bien/rutas/practicafinal/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/pablo/Descargas/bien/rutas/practicafinal/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pruebapegado">
+				<Option output="/home/pablo/Descargas/bien/rutas/practicafinal/pruebapegado" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/pablo/Descargas/bien/rutas/practicafinal"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/pablo/Descargas/bien/rutas/practicafinal/rutas_aereas/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/pablo/Descargas/bien/rutas/practicafinal/Makefile&quot;  VERBOSE=1 pruebapegado"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/pablo/Descargas/bien/rutas/practicafinal/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/pablo/Descargas/bien/rutas/practicafinal/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/pablo/Descargas/bien/rutas/practicafinal/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pruebapegado/fast">
+				<Option output="/home/pablo/Descargas/bien/rutas/practicafinal/pruebapegado" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/pablo/Descargas/bien/rutas/practicafinal"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/pablo/Descargas/bien/rutas/practicafinal/rutas_aereas/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/pablo/Descargas/bien/rutas/practicafinal/Makefile&quot;  VERBOSE=1 pruebapegado/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/pablo/Descargas/bien/rutas/practicafinal/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/pablo/Descargas/bien/rutas/practicafinal/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/pablo/Descargas/bien/rutas/practicafinal/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ruta_aerea">
+				<Option output="/home/pablo/Descargas/bien/rutas/practicafinal/ruta_aerea" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/pablo/Descargas/bien/rutas/practicafinal"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/pablo/Descargas/bien/rutas/practicafinal/rutas_aereas/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/pablo/Descargas/bien/rutas/practicafinal/Makefile&quot;  VERBOSE=1 ruta_aerea"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/pablo/Descargas/bien/rutas/practicafinal/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/pablo/Descargas/bien/rutas/practicafinal/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/pablo/Descargas/bien/rutas/practicafinal/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ruta_aerea/fast">
+				<Option output="/home/pablo/Descargas/bien/rutas/practicafinal/ruta_aerea" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/pablo/Descargas/bien/rutas/practicafinal"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/pablo/Descargas/bien/rutas/practicafinal/rutas_aereas/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/pablo/Descargas/bien/rutas/practicafinal/Makefile&quot;  VERBOSE=1 ruta_aerea/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/pablo/Descargas/bien/rutas/practicafinal/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/pablo/Descargas/bien/rutas/practicafinal/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/pablo/Descargas/bien/rutas/practicafinal/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/pablo/Descargas/bien/rutas/practicafinal/rutas_aereas/include/Almacen_Rutas.h">
+			<Option target="image"/>
+		</Unit>
+		<Unit filename="/home/pablo/Descargas/bien/rutas/practicafinal/rutas_aereas/include/Pais.h">
+			<Option target="image"/>
+		</Unit>
+		<Unit filename="/home/pablo/Descargas/bien/rutas/practicafinal/rutas_aereas/include/Paises.h">
+			<Option target="image"/>
+		</Unit>
+		<Unit filename="/home/pablo/Descargas/bien/rutas/practicafinal/rutas_aereas/include/Punto.h">
+			<Option target="image"/>
+			<Option target="pruebarotacion"/>
+			<Option target="pruebapegado"/>
+			<Option target="ruta_aerea"/>
+		</Unit>
+		<Unit filename="/home/pablo/Descargas/bien/rutas/practicafinal/rutas_aereas/include/Ruta.h">
+			<Option target="image"/>
+		</Unit>
+		<Unit filename="/home/pablo/Descargas/bien/rutas/practicafinal/rutas_aereas/include/imagen.h">
+			<Option target="image"/>
+		</Unit>
+		<Unit filename="/home/pablo/Descargas/bien/rutas/practicafinal/rutas_aereas/src/Almacen_Rutas.cpp">
+			<Option target="image"/>
+		</Unit>
+		<Unit filename="/home/pablo/Descargas/bien/rutas/practicafinal/rutas_aereas/src/Pais.cpp">
+			<Option target="image"/>
+			<Option target="pruebarotacion"/>
+			<Option target="pruebapegado"/>
+			<Option target="ruta_aerea"/>
+		</Unit>
+		<Unit filename="/home/pablo/Descargas/bien/rutas/practicafinal/rutas_aereas/src/Paises.cpp">
+			<Option target="image"/>
+			<Option target="pruebarotacion"/>
+			<Option target="pruebapegado"/>
+			<Option target="ruta_aerea"/>
+		</Unit>
+		<Unit filename="/home/pablo/Descargas/bien/rutas/practicafinal/rutas_aereas/src/Ruta.cpp">
+			<Option target="image"/>
+		</Unit>
+		<Unit filename="/home/pablo/Descargas/bien/rutas/practicafinal/rutas_aereas/src/imagen.cpp">
+			<Option target="image"/>
+		</Unit>
+		<Unit filename="/home/pablo/Descargas/bien/rutas/practicafinal/rutas_aereas/src/imagenES.cpp">
+			<Option target="image"/>
+		</Unit>
+		<Unit filename="/home/pablo/Descargas/bien/rutas/practicafinal/rutas_aereas/src/pruebapais.cpp">
+			<Option target="image"/>
+		</Unit>
+		<Unit filename="/home/pablo/Descargas/bien/rutas/practicafinal/rutas_aereas/src/pruebapaises.cpp">
+			<Option target="image"/>
+		</Unit>
+		<Unit filename="/home/pablo/Descargas/bien/rutas/practicafinal/rutas_aereas/src/pruebapegado.cpp">
+			<Option target="pruebapegado"/>
+		</Unit>
+		<Unit filename="/home/pablo/Descargas/bien/rutas/practicafinal/rutas_aereas/src/pruebarotacion.cpp">
+			<Option target="pruebarotacion"/>
+		</Unit>
+		<Unit filename="/home/pablo/Descargas/bien/rutas/practicafinal/rutas_aereas/src/ruta_aerea.cpp">
+			<Option target="image"/>
+			<Option target="ruta_aerea"/>
+		</Unit>
+		<Unit filename="/home/pablo/Descargas/bien/rutas/practicafinal/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/pablo/Descargas/bien/rutas/practicafinal/Doxyfile.in">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

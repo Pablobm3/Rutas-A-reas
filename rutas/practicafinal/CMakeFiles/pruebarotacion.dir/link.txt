@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/pruebarotacion.dir/rutas_aereas/src/pruebarotacion.cpp.o CMakeFiles/pruebarotacion.dir/rutas_aereas/src/Pais.cpp.o CMakeFiles/pruebarotacion.dir/rutas_aereas/src/Paises.cpp.o  -o pruebarotacion  libimage.a 

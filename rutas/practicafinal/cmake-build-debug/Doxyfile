@@ -1,0 +1,6 @@
+PROJECT_NAME           = "Práctica Final: Rutas Aereas"
+OUTPUT_DIRECTORY       = /home/pablo/Descargas/bien/rutas/practicafinal/cmake-build-debug/doc_doxygen/
+INPUT                  = /home/pablo/Descargas/bien/rutas/practicafinal/rutas_aereas/include /home/pablo/Descargas/bien/rutas/practicafinal/rutas_aereas/src /home/pablo/Descargas/bien/rutas/practicafinal/rutas_aereas/doc
+GENERATE_LATEX         = NO
+IMAGE_PATH             = /home/pablo/Descargas/bien/rutas/practicafinal/rutas_aereas/doc
+EXTRACT_PRIVATE        = NO

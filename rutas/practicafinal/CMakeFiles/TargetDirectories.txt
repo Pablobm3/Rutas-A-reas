@@ -1,0 +1,7 @@
+/home/pablo/Descargas/bien/rutas/practicafinal/CMakeFiles/rebuild_cache.dir
+/home/pablo/Descargas/bien/rutas/practicafinal/CMakeFiles/edit_cache.dir
+/home/pablo/Descargas/bien/rutas/practicafinal/CMakeFiles/ruta_aerea.dir
+/home/pablo/Descargas/bien/rutas/practicafinal/CMakeFiles/doc_doxygen.dir
+/home/pablo/Descargas/bien/rutas/practicafinal/CMakeFiles/pruebapegado.dir
+/home/pablo/Descargas/bien/rutas/practicafinal/CMakeFiles/pruebarotacion.dir
+/home/pablo/Descargas/bien/rutas/practicafinal/CMakeFiles/image.dir

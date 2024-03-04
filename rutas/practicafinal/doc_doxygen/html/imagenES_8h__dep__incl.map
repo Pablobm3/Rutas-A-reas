@@ -1,0 +1,7 @@
+<map id="include/imagenES.h" name="include/imagenES.h">
+<area shape="rect" id="node1" title="Fichero cabecera para la E/S de imágenes." alt="" coords="173,5,323,32"/>
+<area shape="rect" id="node2" href="$Ruta_8h_source.html" title=" " alt="" coords="41,80,156,107"/>
+<area shape="rect" id="node4" href="$imagen_8h_source.html" title=" " alt="" coords="181,80,315,107"/>
+<area shape="rect" id="node5" href="$imagenES_8cpp.html" title="Fichero con definiciones para la E/S de imágenes." alt="" coords="339,80,477,107"/>
+<area shape="rect" id="node3" href="$Almacen__Rutas_8h_source.html" title=" " alt="" coords="5,155,192,181"/>
+</map>
